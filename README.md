@@ -11,7 +11,7 @@ Esse site foi criado como certificado das aulas de JavaScript do qual obtive a o
 
 Esse projeto não é necessário instalar nenhum framework ou linguagem:
 
-<h3>Linguagens de marcação e estilização utilizadas</h3>
+<h3>Linguagens utilizadas</h3>
 <blockquote><b>JavaScript</b></blockquote>
 
 <br>
