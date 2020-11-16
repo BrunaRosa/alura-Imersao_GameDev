@@ -4,7 +4,7 @@ Esse site foi criado como certificado das aulas de JavaScript do qual obtive a o
 
 <br>
 <h2>Para acessar o site:</h2>
-<blockquote><b>Git page: (https://brunarosa.github.io/Imersao_GameDev/)</b></blockquote>
+<blockquote><b>Git page: (https://brunarosa.github.io/alura-Imersao_GameDev/)</b></blockquote>
 
 <br>
 <h2>Pré- requisitos</h2>
